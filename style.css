@@ -6,6 +6,9 @@
 body {
     font-family: 'Lato', sans-serif;
 }
+h1{
+    color: purple;
+}
 hr{
     margin: 2em 0;
 }
